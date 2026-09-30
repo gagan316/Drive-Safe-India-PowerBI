@@ -90,4 +90,4 @@ Accessed via OpenCity: https://data.opencity.in/dataset/road-accidents-in-india-
 ## 👤 Author
 
 **[Gagan K. Moolya]**
-[linkedin/in/gaganmoolya] | [gaganmolya03@gmail.com]
+[linkedin.com/in/gaganmoolya] | [gaganmolya03@gmail.com]
